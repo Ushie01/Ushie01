@@ -1,6 +1,6 @@
 [![MasterHead](https://i.gifer.com/1kc1.gif)]
 <h1 align="center">Hi 👋, I'm Ushie</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from Nigeria</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/1kc1.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ushie01" alt="ushie01" /></a> </p>
